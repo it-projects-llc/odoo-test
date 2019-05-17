@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to odoo-test.sh's documentation!
+Welcome to odoo-test.sh documentation!
 ========================================
 
 .. toctree::
@@ -12,13 +12,16 @@ Welcome to odoo-test.sh's documentation!
 
    first-steps
    qa/index
-   jstours/index
+   jstour/index
+   pos/index
+   archive/index
 
 
 .. admonition:: Need our service?
    :class: warning
 
-   For module development contact us by `email <mailto:it@it-projects.info>`__ or fill out `request form <https://www.it-projects.info/page/website.contactus>`__:
+   Contact us by `email <mailto:it@it-projects.info>`__ or fill out `request form <https://www.it-projects.info/page/website.contactus>`__:
 
    * it@it-projects.info
    * https://www.it-projects.info/page/website.contactus
+

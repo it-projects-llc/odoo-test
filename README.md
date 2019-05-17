@@ -27,7 +27,7 @@
       cd /path/to/odoo-test/doc-src
       make html
 
-      # (check warningn and errors in compilation logs and fix them if needed)
+      # (check warnings and errors in compilation logs and fix them if needed)
 
       # open result
       google-chrome _build/html/index.html
