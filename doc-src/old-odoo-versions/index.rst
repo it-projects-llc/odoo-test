@@ -2,6 +2,8 @@
  Documentation archive
 =======================
 
+Information contained in this section covers **Odoo 8 & 9**.
+
 .. toctree::
    :maxdepth: 4
 
@@ -10,3 +12,4 @@
    js-tour-odoo-8-9/manual-launch
    js-tour-odoo-8-9/auto-launch
 
+.. note:: The later versions are available :doc:`here <../../js-tour>`.
